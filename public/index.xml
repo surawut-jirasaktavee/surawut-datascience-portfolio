@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Surawut Jirasaktavee</title>
-    <link>https://github.io/surawut-jirasaktavee-datascience-portfolio/</link>
+    <link>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/</link>
     <description>Recent content in Data Science Portfolio on Surawut Jirasaktavee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.io/surawut-jirasaktavee-datascience-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DATA ANALYSIS FOR INSIGHT INFORMATION</title>
-      <link>https://github.io/surawut-jirasaktavee-datascience-portfolio/post/project-4/</link>
+      <link>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/post/project-4/</link>
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://github.io/surawut-jirasaktavee-datascience-portfolio/post/project-4/</guid>
+      <guid>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/post/project-4/</guid>
       <description>In this project, I will analyze to find the insight information to using WESTBOUND TRAFFIC ON I-94 dataset from UCI MACHINE LEARNING BY JOHN HOGUE.
 The goal of this analysis is to determine a few indicators of heavy traffic on I-94. These indicators can be weather type, time of the day, time of the week, etc. go through and explore the data find insight information visualize data to see more details, and use that data to answer many of questions and do it again and again until that data can give you every answer.</description>
     </item>
     
     <item>
       <title>DATA ANALYSIS AND VISUALIZATION</title>
-      <link>https://github.io/surawut-jirasaktavee-datascience-portfolio/post/project-3/</link>
+      <link>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/post/project-3/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://github.io/surawut-jirasaktavee-datascience-portfolio/post/project-3/</guid>
+      <guid>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/post/project-3/</guid>
       <description>In this project, I will analyze and visualize data using EURO EXCHANGE RATES BETWEEN 1999 AND 2021(JAN). the euro (symbolized with €) is the official in most of the countries of the European Union.
 DARIA CHEMKAEVA put together the dataset and made it available on Kaggle - the data source is EUROPEAN CENTRAL BANK.
  IN THIS PROJECT HAS THE 3 TASKS INCLUDING: * DATA CLEANING * DATA ANAYLSIS * DATA VISUALIZATION  For the analysis part I will analyze big 3 situation in the world as follow:</description>
@@ -30,10 +30,10 @@ DARIA CHEMKAEVA put together the dataset and made it available on Kaggle - the d
     
     <item>
       <title>K-NEAREST NEIGHBOR REGRESSOR</title>
-      <link>https://github.io/surawut-jirasaktavee-datascience-portfolio/post/project-2/</link>
+      <link>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/post/project-2/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://github.io/surawut-jirasaktavee-datascience-portfolio/post/project-2/</guid>
+      <guid>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/post/project-2/</guid>
       <description>In this project, I will predict car prices with K-NEAREST NEIGHBOR
 K-nearest neighbor is an algorithm in machine learning or KNN algorithm that will find the “K” nearest neighbor from the data.
 This project used AUTOMOBILE DATASET FROM UCI MACHINE LEARNING repository to predict car prices with univariate and multivariate models and fine-tune hyper-parameters to find the best features that are compatible to predicting and evaluate the model with MSE and RMSE to check the prediction.</description>
@@ -41,29 +41,29 @@ This project used AUTOMOBILE DATASET FROM UCI MACHINE LEARNING repository to pre
     
     <item>
       <title>IMAGE CLASSIFICATION &amp; AI CHATBOT</title>
-      <link>https://github.io/surawut-jirasaktavee-datascience-portfolio/post/project-1/</link>
+      <link>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/post/project-1/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.io/surawut-jirasaktavee-datascience-portfolio/post/project-1/</guid>
+      <guid>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/post/project-1/</guid>
       <description>This is my first project in the data science field. I have decided to in work this project. Because I have interested about Computer vision. I wonder how the computer can see the images and what the computer can see. that why I choose this project first.
 In this project, I&amp;rsquo;ve been trained the model image classification using dog dataset to classify each species of the dog to scope dog species and use that result to reply to the user that sent the dog images into line chatbot for asked about the dog species and help other users who lost their dog or help the dog to find their partner.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://github.io/surawut-jirasaktavee-datascience-portfolio/about/</link>
+      <link>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.io/surawut-jirasaktavee-datascience-portfolio/about/</guid>
+      <guid>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/about/</guid>
       <description>Data science and Big data project are my passions. My name is Surawut Jirasaktavee. I am Business analyst right now I aim to change my career path to data scientist in the future. And I have been working in the data science field doing mainly in computer vision for the last 6 months. This is my first job position in startup company in data science. I transitioned into data science from a business management, finance and accounting background.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://github.io/surawut-jirasaktavee-datascience-portfolio/contact/</link>
+      <link>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.io/surawut-jirasaktavee-datascience-portfolio/contact/</guid>
+      <guid>https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/contact/</guid>
       <description>Following me on these social media platform
    Platform URL     LinkedIn: https://www.linkedin.com/in/surawut-jirasaktavee-b5201b214/   Github: https://github.com/surawut-jirasaktavee   Kaggle: https://www.kaggle.com/premsurawut   Twitter: https://twitter.com/premsurawut_jir   Tableau: https://public.tableau.com/app/profile/surawut.jirasaktavee1981#!/?newProfile=&amp;amp;activeTab=0   Gmail: surawut.jirasaktavee@gmail.com    </description>
     </item>
