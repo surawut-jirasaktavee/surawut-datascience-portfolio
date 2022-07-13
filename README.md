@@ -1,3 +1,5 @@
 # This is my data science portfolio
 
-## See my project and effort to learn to change my career field.
+**See my data science portfolio and projects**.
+[PORTFOLIO](https://surawut-jirasaktavee.github.io/surawut-datascience-portfolio/)
+
